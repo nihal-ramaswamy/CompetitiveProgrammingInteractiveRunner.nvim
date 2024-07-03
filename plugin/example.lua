@@ -1,3 +1,3 @@
 print("Hello World")
 
-vim.keymap.set("n", "<leader>asdf", ":echo 'hello world'<CR>")
+vim.keymap.set("n", "asdf", ":echo 'hello world'<CR>")
